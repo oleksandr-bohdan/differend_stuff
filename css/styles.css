@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #212121;
+}
+
+.text {
+  padding: 20px;
+  background-color: #fff;
+  border: 2px dashed #212121;
+}
